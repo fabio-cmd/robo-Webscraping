@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 import xlrd
 
-print("iniciando nosso robô...\n")
+print("iniciando nosso robô...\n") #commit
 
 arq = open("resultado.txt", "w")
 
