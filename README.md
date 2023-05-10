@@ -11,7 +11,7 @@ Antes de executar o script, certifique-se de ter instalado em seu computador:
  - Google Chrome
  - Arquivo executável do ChromeDriver (o link para download pode ser encontrado em https://chromedriver.chromium.org/downloads)
  
- ## Como utilizar:
+ ## Como utilizar
  
 1. Abra o terminal ou prompt de comando em seu computador.
 2. Clone este repositório em sua máquina:
