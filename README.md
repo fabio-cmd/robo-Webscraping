@@ -1,4 +1,4 @@
-# Registro.br Domain Availability Checker:
+# Robô de Verificação de Domínios usando Python e Selenium
 
 Este é um script Python que utiliza a biblioteca Selenium para automatizar a busca pela disponibilidade de nomes de domínio no site Registro.br
 
