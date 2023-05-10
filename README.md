@@ -17,12 +17,10 @@ Antes de executar o script, certifique-se de ter instalado em seu computador:
 2. Clone este repositório em sua máquina:
 
  python ``` bash
-Copy code
 git clone https://github.com/seu-usuario/nome-do-repositorio.git ```
 
 3. Navegue até a pasta do repositório:
 arduino ```
-Copy code
 cd nome-do-repositório```
 
 4. Insira os nomes de domínio que você deseja pesquisar na coluna A de um arquivo Excel e salve-o na pasta do projeto.
