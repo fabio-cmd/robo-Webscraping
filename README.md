@@ -16,8 +16,7 @@ Antes de executar o script, certifique-se de ter instalado em seu computador:
 1. Abra o terminal ou prompt de comando em seu computador.
 2. Clone este repositório em sua máquina:
 
- python ``` bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git ```
+```git clone https://github.com/seu-usuario/nome-do-repositorio.git ```
 
 3. Navegue até a pasta do repositório:
 arduino ```
