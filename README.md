@@ -12,9 +12,9 @@ Como utilizar
 Abra o terminal ou prompt de comando em seu computador.
 Clone este repositório em sua máquina:
 
-(`)bash
+ python ``` bash
 Copy code
-git clone https://github.com/seu-usuario/nome-do-repositorio.git(`)
+git clone https://github.com/seu-usuario/nome-do-repositorio.git ```
 
 Navegue até a pasta do repositório:
 arduino
