@@ -19,8 +19,7 @@ Antes de executar o script, certifique-se de ter instalado em seu computador:
 ```git clone https://github.com/fabio-cmd/robo-Webscraping.git```
 
 3. Navegue até a pasta do repositório:
-arduino ```
-cd robo-Webscraping```
+``cd robo-Webscraping```
 
 4. Insira os nomes de domínio que você deseja pesquisar na coluna A de um arquivo Excel e salve-o na pasta do projeto.
 5. Execute o script através do comando:
