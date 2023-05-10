@@ -32,7 +32,7 @@ cd nome-do-repositório```
 
 ## Observações
 
-- Este script foi desenvolvido apenas para fins de estudo e não deve ser utilizado em produção.
+- Este script é a solução ideal para automatizar tarefas repetitivas, como a verificação da disponibilidade de domínios na web. Além de ser fácil de usar e configurar, ele pode ser facilmente integrado em fluxos de trabalho automatizados, reduzindo o tempo e o esforço necessários para executar essas tarefas manualmente. No entanto, recomendamos que você teste cuidadosamente o script em um ambiente de desenvolvimento antes de usá-lo em um ambiente de produção para garantir que ele atenda às suas necessidades específicas. Com a flexibilidade e a eficiência que esse script oferece, você poderá se concentrar em outras tarefas importantes do seu projeto!
 - Certifique-se de que o arquivo executável do ChromeDriver esteja atualizado na pasta do projeto antes de executar o script.
 - Caso deseje fazer alterações no código, sugerimos utilizar um ambiente virtual para instalar as dependências.
 
