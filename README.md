@@ -1,38 +1,36 @@
+Registro.br Domain Availability Checker
+Este é um script Python que utiliza a biblioteca Selenium para automatizar a busca pela disponibilidade de nomes de domínio no site Registro.br
 
-README
+Requisitos
+Antes de executar o script, certifique-se de ter instalado em seu computador:
 
-Introduction
+Python 3.x
+Biblioteca Selenium
+Google Chrome
+Arquivo executável do ChromeDriver (o link para download pode ser encontrado em https://chromedriver.chromium.org/downloads)
+Como utilizar
+Abra o terminal ou prompt de comando em seu computador.
+Clone este repositório em sua máquina:
 
-This is a Python script that uses Selenium and xlrd libraries to search for the availability of domain names on Registro.br website and writes the results in a text file.
-
-Prerequisites
-Before running the script, you need to have Python 3.x installed on your machine. You also need to have the following Python libraries installed:
-
-selenium
-xlrd
-
-You also need to have Google Chrome browser installed on your machine and the path to the ChromeDriver executable file needs to be updated in the script.
-
-Installation
-
-Install Python 3.x
-Install selenium and xlrd libraries using pip command:
+(`)bash
 Copy code
-pip install selenium
-pip install xlrd
+git clone https://github.com/seu-usuario/nome-do-repositorio.git(`)
 
-Download the ChromeDriver executable file from https://chromedriver.chromium.org/downloads and save it in a folder on your machine.
-Update the path to the ChromeDriver executable file in the script.
+Navegue até a pasta do repositório:
+arduino
+Copy code
+cd nome-do-repositório
+Insira os nomes de domínio que você deseja pesquisar na coluna A de um arquivo Excel e salve-o na pasta do projeto.
+Execute o script através do comando:
+Copy code
+python3 domain_checker.py
+O resultado da busca será armazenado no arquivo "resultado.txt".
+Observações
+Este script foi desenvolvido apenas para fins de estudo e não deve ser utilizado em produção.
+Certifique-se de que o arquivo executável do ChromeDriver esteja atualizado na pasta do projeto antes de executar o script.
+Caso deseje fazer alterações no código, sugerimos utilizar um ambiente virtual para instalar as dependências.
+Licença
+Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE.md para mais informações.
 
-Usage
-
-Prepare an Excel file with a list of domain names you want to search for availability.
-Update the path to the Excel file in the script.
-Run the script using the command prompt or any IDE that supports Python.
-
-Output
-
-The script will write the results to a text file named "resultado.txt". The file will be saved in the same folder as the script.
-
-Note
-This script uses Selenium to automate web browsing, which means it controls a browser programatically. Make sure that you don't have any sensitive information opened in your browser while the script is running.
+Autor
+Este script foi desenvolvido por Fábio Diniz. Fique à vontade para entrar em contato em caso de dúvidas ou sugestões.
