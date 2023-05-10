@@ -16,11 +16,11 @@ Antes de executar o script, certifique-se de ter instalado em seu computador:
 1. Abra o terminal ou prompt de comando em seu computador.
 2. Clone este repositório em sua máquina:
 
-```git clone https://github.com/seu-usuario/nome-do-repositorio.git ```
+```git clone https://github.com/fabio-cmd/robo-Webscraping.git```
 
 3. Navegue até a pasta do repositório:
 arduino ```
-cd nome-do-repositório```
+cd robo-Webscraping```
 
 4. Insira os nomes de domínio que você deseja pesquisar na coluna A de um arquivo Excel e salve-o na pasta do projeto.
 5. Execute o script através do comando:
